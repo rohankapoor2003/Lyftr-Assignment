@@ -1,3 +1,6 @@
+Setup Used: 
+ - VS Code + Cursor AI + ChatGPT for planning and debugging.
+
 # Webhook API - FastAPI Backend
 
 A production-ready FastAPI backend for processing webhook messages with HMAC signature validation, SQLite storage, and comprehensive API endpoints.
